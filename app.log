@@ -1,0 +1,6 @@
+2020-07-15 23:24:59,566 FATAL e.l.Main [main] Hello from fatal
+2020-07-15 23:24:59,570 ERROR e.l.Main [main] Hello from error
+2020-07-15 23:24:59,570 WARN e.l.Main [main] Hello from warn
+2020-07-15 23:24:59,571 INFO e.l.Main [main] Hello from info
+2020-07-15 23:24:59,571 DEBUG e.l.Main [main] Hello from debug
+2020-07-15 23:24:59,573 DEBUG e.l.Service [main] Name for greeting 'Jane'
